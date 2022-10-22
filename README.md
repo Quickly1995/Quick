@@ -10,7 +10,7 @@
 <form>
 
     <h1>Sign up</h1>
-    
+
     <fieldset>
      <strong>Student Name</strong><br><br>
      <input type="text" id="fname" placeholder="First name:" name="fname">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,14 +48,14 @@
      
      <br><br>
      <label for="Phone">Phone:</label><br>
-     <input type="text" id="text" placeholder="type your phone number:" name="email"><br><br>
+     <input type="text" id="text" placeholder="type your phone number:" name="Phone"><br><br>
      
      <label for="email">Email:</label><br>
      <input type="email" id="email" placeholder="type your email:" name="email"><br><br>
      
        
      <label for="password">Password:</label><br>
-     <input type="password" id="password" placeholder="Password:" name="email"><br><br>
+     <input type="password" id="password" placeholder="Password:" name="Password"><br><br>
      
    
      
